@@ -1,2 +1,2 @@
-http://example.com/zh-cn/hello/
-http://example.com/zh-cn/yigeren/
+https://itasaas.github.io/blog/zh-cn/hello/
+https://itasaas.github.io/blog/zh-cn/yigeren/
