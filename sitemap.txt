@@ -1,0 +1,3 @@
+http://example.com/zh-cn/hello/
+http://example.com/zh-cn/yigeren/
+http://example.com/
