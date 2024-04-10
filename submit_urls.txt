@@ -1,2 +1,2 @@
-https://itasaas.github.io/blog/zh-cn/hello/
-https://itasaas.github.io/blog/zh-cn/yigeren/
+https://itasaas.github.io/zh-cn/hello/
+https://itasaas.github.io/zh-cn/yigeren/
